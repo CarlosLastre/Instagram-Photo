@@ -1,0 +1,46 @@
+
+body {
+    background-color: black; font-size: 18px; font-family: 'Permanent Marker', cursive;
+}
+   
+.caja-primera{
+position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+    max-width: 600px;
+}
+
+
+img {
+    max-width: 100%;
+}
+  
+header {
+    display: flex;
+    width: 700px;
+height: 800px;
+margin: 0 auto;
+background:whitesmoke;
+text-align: left;
+}
+
+.b {
+    margin-left: 15px;
+}
+
+.ubicacion_iconos {
+    margin-left: 15px;
+    margin-right: 18px;
+}
+
+.parrafo {
+    margin-left: 15px;
+    text-align: start;
+     
+
+}
+.pinterno {
+    margin-right: 100px;
+}
